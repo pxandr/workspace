@@ -8,5 +8,5 @@ sudo systemctl enable nginx
 sudo systemctl start nginx
 
 echo "Install php packages + mysql "
-sudo apt install php-fpm php-cli php-mysql php-curl php-mbstring php-xml php-zip
+sudo apt install php-fpm php-cli php-mysql php-curl php-mbstring php-xml php-zip mysql-server
 
